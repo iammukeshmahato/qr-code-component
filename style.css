@@ -28,6 +28,7 @@ main {
    background-color: var(--White);
    padding: 1rem;
    border-radius: 1rem;
+   box-shadow: 0 4px 12px -4px rgba(0, 0, 0, 0.2)
 }
 
 .card img {
