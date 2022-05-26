@@ -44,7 +44,7 @@ main {
 
 .heading {
    color: var(--Dark-blue);
-   padding: 1.5rem 1rem 1.375rem 1rem;
+   padding: 1.25rem 1rem 1.125rem 1rem;
    font-size: 22px;
    font-weight: 700;
 }
